@@ -10,7 +10,7 @@ Just set of things that I need to get done with xD ✅
 
 ### Checklist
 - [x] Deno + PostgreSQL
-- [ ] Deno + MongoDB
+- [x] Deno + MongoDB
 - [ ] Deno + GraphQL
 
 ## 3.Mobile Application
@@ -26,6 +26,8 @@ Just set of things that I need to get done with xD ✅
 - [x] Static ktor API calls
 - [ ] in-depth ktor (possibly a backend app)
 
-### 📝🤘
+### 📝🤘 What keeps me going?
 
 > ***"If you're not dreaming big for yourself, who's doing it for you?"***
+> ***"Stop watching, Start doing."***
+> ***"Love yourself first, and then Love yourself most!"***
