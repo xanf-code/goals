@@ -4,13 +4,13 @@ Just set of things that I need to get done with xD ✅
 ## 1.Personal Portfolio
 
 ### Checklist
-- [x] Portfolio  [Portfolio](https://github.com/xanf-code/MyPortfolio)
+- [x] Portfolio  ✔️[Portfolio](https://github.com/xanf-code/MyPortfolio)
 
 ## 2.Deno
 
 ### Checklist
-- [x] Deno + PostgreSQL  [College API using PostgreSQL](https://github.com/xanf-code/CollegesAPI) , [Indian Football API + PostgreSQL](https://github.com/xanf-code/Indian-Football-API)
-- [x] Deno + MongoDB  [College API using Mongo](https://github.com/xanf-code/MongoCollegeAPI)
+- [x] Deno + PostgreSQL  ✔️[College API using PostgreSQL](https://github.com/xanf-code/CollegesAPI) , [Indian Football API + PostgreSQL](https://github.com/xanf-code/Indian-Football-API)
+- [x] Deno + MongoDB  ✔️[College API using Mongo](https://github.com/xanf-code/MongoCollegeAPI)
 - [ ] Deno + GraphQL 
 
 ## 3.Mobile Application
@@ -23,7 +23,7 @@ Just set of things that I need to get done with xD ✅
 
 ### Checklist
 
-- [x] Static ktor API calls  [Ktor_Static](https://github.com/xanf-code/ktor_1)
+- [x] Static ktor API calls  ✔️[Ktor_Static](https://github.com/xanf-code/ktor_1)
 - [ ] in-depth ktor (possibly a backend app)
 
 ### 📝🤘 What keeps me going?
