@@ -26,6 +26,18 @@ Just set of things that I need to get done with xD ✅
 - [x] Static ktor API calls  ✔️[Ktor_Static](https://github.com/xanf-code/ktor_1)
 - [ ] in-depth ktor (possibly a backend app)
 
+## 5.Golang
+
+### Checklist
+
+- [ ] Golang Crash Course
+
+## 6.Yaml
+
+### Checklist
+
+- [ ] Not Sure why anyone would learn Yaml but yea i'll do it 😂😂
+
 ### 📝🤘 What keeps me going?
 
 > ***"If you're not dreaming big for yourself, who's doing it for you?"***\
