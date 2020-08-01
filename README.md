@@ -30,7 +30,7 @@ Just set of things that I need to get done with xD ✅
 
 ### Checklist
 
-- [ ] Rest API in Golang
+- [x] Rest API in Golang  ✔️[FriendsAPI](https://github.com/xanf-code/friendsapi-goLang)
 - [ ] Golang Crash Course
 
 ## 6.Yaml
