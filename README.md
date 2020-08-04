@@ -10,8 +10,8 @@ Just set of things that I need to get done with xD ✅
 
 ### Checklist
 - [x] Deno + PostgreSQL  ✔️[College API using PostgreSQL](https://github.com/xanf-code/CollegesAPI) , [Indian Football API + PostgreSQL](https://github.com/xanf-code/Indian-Football-API)
-- [x] Deno + MongoDB  ✔️[College API using Mongo](https://github.com/xanf-code/MongoCollegeAPI)
-- [ ] Deno + GraphQL 
+- [x] Deno + MongoDB  ✔️[College API using Mongo](https://github.com/xanf-code/MongoCollegeAPI)\
+~Deno + GraphQL~
 
 ## 3.Mobile Application
 
