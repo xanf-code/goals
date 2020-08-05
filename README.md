@@ -43,7 +43,7 @@ Just set of things that I need to get done with xD ✅
 
 ### Checklist
 
-- [x] Rest API with MongoDB
+- [x] Rest API with MongoDB  ✔️[IMDB Scrapper + API](https://github.com/xanf-code/MEAN-CRUD-Rest-API)
 
 ### 📝🤘 What keeps me going?
 
