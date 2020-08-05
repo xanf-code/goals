@@ -1,6 +1,8 @@
 # Goals
 Just set of things that I need to get done with xD ✅
 
+![Progress](https://progress-bar.dev/45/?title=progress)
+
 ## 1.Personal Portfolio
 
 ### Checklist
