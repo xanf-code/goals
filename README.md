@@ -39,11 +39,11 @@ Just set of things that I need to get done with xD ✅
 
 - [ ] Not Sure why anyone would learn Yaml but yea i'll do it 😂😂
 
-## 7.NodeJS + Express JS
+## 7.NodeJS + Express JS (MEN)
 
 ### Checklist
 
-- [ ] Rest API with MongoDB
+- [x] Rest API with MongoDB
 
 ### 📝🤘 What keeps me going?
 
