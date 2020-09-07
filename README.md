@@ -1,7 +1,7 @@
 # Goals
 Just set of things that I need to get done with xD ✅
 
-![Progress](https://progress-bar.dev/49/?title=progress)
+![Progress](https://progress-bar.dev/55/?title=progress)
 
 ## 1.Personal Portfolio
 
@@ -34,6 +34,12 @@ Just set of things that I need to get done with xD ✅
 
 - [x] Rest API in Golang  ✔️[FriendsAPI](https://github.com/xanf-code/friendsapi-goLang)
 - [ ] Golang Crash Course
+
+## 6.TM Scrapper + Live REST API
+
+### Checklist
+
+- [x] Rest API in Django  ✔️[TMIFAPI](https://github.com/xanf-code/indianfootball_djangoDB)
 
 ## 6.Yaml
 
