@@ -43,20 +43,20 @@ Just set of things that I need to get done with xD ✅
 
 - [x] Rest API in Django  ✔️[TMIFAPI](https://github.com/xanf-code/indianfootball_djangoDB)
 
-## 6.Yaml
+## 7.Yaml
 
 ### Checklist
 
 - [ ] Not Sure why anyone would learn Yaml but yea i'll do it 😂😂
 
-## 7.NodeJS + Express JS (MEN)
+## 8.NodeJS + Express JS (MEN)
 
 ### Checklist
 
 - [x] Rest API with MongoDB  ✔️[IMDB Scrapper + API](https://github.com/xanf-code/MEAN-CRUD-Rest-API)
 - [x] LOGIN/REGISTRATION with MongoDB  ✔️[PASSPOR](https://github.com/xanf-code/Login-Registration-REST-API)
 
-## 8.Dart+GraphQL
+## 9.Dart+GraphQL
 
 ### Checklist
 - [x] Simple App  ✔️[Countries App GraphQL](https://github.com/xanf-code/graphql_app)
