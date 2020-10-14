@@ -1,7 +1,7 @@
 # Goals
 Just set of things that I need to get done with xD ✅
 
-![Progress](https://progress-bar.dev/55/?title=progress)
+![Progress](https://progress-bar.dev/60/?title=progress)
 
 ## 1.Personal Portfolio
 
@@ -52,6 +52,7 @@ Just set of things that I need to get done with xD ✅
 ### Checklist
 
 - [x] Rest API with MongoDB  ✔️[IMDB Scrapper + API](https://github.com/xanf-code/MEAN-CRUD-Rest-API)
+- [x] LOGIN/REGISTRATION with MongoDB  ✔️[PASSPOR](https://github.com/xanf-code/Login-Registration-REST-API)
 
 ## 8.Dart+GraphQL
 
