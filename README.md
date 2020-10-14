@@ -1,6 +1,8 @@
 # Goals
 Just set of things that I need to get done with xD ✅
 
+8 months/ 1 Year
+
 ![Progress](https://progress-bar.dev/60/?title=progress)
 
 ## 1.Personal Portfolio
