@@ -1,9 +1,9 @@
 # Goals
-Just set of things that I need to get done with xD ✅
+Suffering from Alzheimer's disease, Journal to back me up xD ✅
 
-8 months/ 1 Year
+9 months/ 1 Year
 
-![Progress](https://progress-bar.dev/60/?title=progress)
+![Progress](https://progress-bar.dev/70/?title=progress)
 
 ## 1.Personal Portfolio
 
@@ -20,8 +20,10 @@ Just set of things that I need to get done with xD ✅
 ## 3.Mobile Application
 
 ### Checklist
-- [ ] Complete Mobile App from scratch using own Backend service APIs
+- [x] [Frontend and working with APIs] Complete Mobile App from scratch using own Backend service APIs
 (Air Index app with possible backend hardware sensor) [Usiru](https://github.com/xanf-code/usiru)
+
+- [x] Production ready Remake of Football Guru with entire Backend APIs built on own.
 
 ## 4.Ktor In-depth
 
