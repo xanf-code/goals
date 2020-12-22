@@ -67,6 +67,9 @@ Suffering from Alzheimer's disease, Journal to back me up xD ✅
 ### Checklist
 - [x] Simple App  ✔️[Countries App GraphQL](https://github.com/xanf-code/graphql_app)
 
+## 10.Student Teacher
+- [x] Full Stack ✔️
+
 ### 📝🤘 What keeps me going?
 
 > ***"If you're not dreaming big for yourself, who's doing it for you?"***\
