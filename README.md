@@ -6,8 +6,8 @@ Suffering from Alzheimer's disease, Journal to back me up xD ✅
 ![Progress](https://progress-bar.dev/70/?title=progress)
 
 ## 0.🚀 🚀
-- [] Master Flutter/Dart (kinda)
-- [] Master React (or atleast)
+- [ ] Master Flutter/Dart (kinda)
+- [ ] Master React (or atleast)
 
 ## 1.Personal Portfolio
 
