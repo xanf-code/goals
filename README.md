@@ -1,5 +1,5 @@
 # Goals
-Suffering from Alzheimer's disease, Journal to back me up xD ✅
+Suffering from Alzheimer's disease, Journal to back me up xD 🚀
 
 9 months/ 1 Year
 
@@ -8,6 +8,7 @@ Suffering from Alzheimer's disease, Journal to back me up xD ✅
 ## 0.🚀 🚀
 - [ ] Master Flutter/Dart (kinda)
 - [ ] Master React (or atleast)
+- [x] More PWA.
 
 ## 1.Personal Portfolio
 
