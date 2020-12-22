@@ -68,7 +68,7 @@ Suffering from Alzheimer's disease, Journal to back me up xD ✅
 - [x] Simple App  ✔️[Countries App GraphQL](https://github.com/xanf-code/graphql_app)
 
 ## 10.Student Teacher
-- [x] Full Stack ✔️
+- [x] Full Stack ✔️[Online class](https://github.com/xanf-code/onilne-class--client-)
 
 ### 📝🤘 What keeps me going?
 
